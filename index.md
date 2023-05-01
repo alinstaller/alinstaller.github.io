@@ -3,4 +3,4 @@ use and provides a step-by-step installation guide to perform a clean
 installation without the need of Internet access.
 
 You can [view the project page](https://github.com/alinstaller/alinstaller), or
-[download released images](https://github.com/alinstaller/alinstaller/releases).
+[download the latest release](https://github.com/alinstaller/alinstaller/releases/latest).
